@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T02:52:42.590216+00:00",
+  "updated": "2026-10-08T04:22:18.728441+00:00",
   "valid_from": "2026-10-08",
   "valid_until": "2026-10-21",
   "source": "WorldTides (based on HKO tidal data)",
@@ -2219,6 +2219,475 @@
           {
             "time": "12:45",
             "height": -0.47,
+            "type": "low"
+          }
+        ]
+      }
+    },
+    {
+      "name": "近石仔排",
+      "lat": 21.690778,
+      "lon": 114.651139,
+      "tides": {
+        "2026-10-07": [
+          {
+            "time": "16:07",
+            "height": -0.04,
+            "type": "low"
+          },
+          {
+            "time": "22:49",
+            "height": 0.538,
+            "type": "high"
+          }
+        ],
+        "2026-10-08": [
+          {
+            "time": "06:12",
+            "height": -0.485,
+            "type": "low"
+          },
+          {
+            "time": "12:39",
+            "height": 0.124,
+            "type": "high"
+          },
+          {
+            "time": "17:26",
+            "height": -0.155,
+            "type": "low"
+          },
+          {
+            "time": "23:47",
+            "height": 0.459,
+            "type": "high"
+          }
+        ],
+        "2026-10-09": [
+          {
+            "time": "06:33",
+            "height": -0.391,
+            "type": "low"
+          },
+          {
+            "time": "12:46",
+            "height": 0.233,
+            "type": "high"
+          },
+          {
+            "time": "18:27",
+            "height": -0.274,
+            "type": "low"
+          }
+        ],
+        "2026-10-10": [
+          {
+            "time": "00:42",
+            "height": 0.354,
+            "type": "high"
+          },
+          {
+            "time": "06:50",
+            "height": -0.294,
+            "type": "low"
+          },
+          {
+            "time": "13:01",
+            "height": 0.352,
+            "type": "high"
+          },
+          {
+            "time": "19:22",
+            "height": -0.381,
+            "type": "low"
+          }
+        ],
+        "2026-10-11": [
+          {
+            "time": "01:36",
+            "height": 0.235,
+            "type": "high"
+          },
+          {
+            "time": "07:02",
+            "height": -0.207,
+            "type": "low"
+          },
+          {
+            "time": "13:19",
+            "height": 0.462,
+            "type": "high"
+          },
+          {
+            "time": "20:14",
+            "height": -0.464,
+            "type": "low"
+          }
+        ],
+        "2026-10-12": [
+          {
+            "time": "02:32",
+            "height": 0.114,
+            "type": "high"
+          },
+          {
+            "time": "07:09",
+            "height": -0.14,
+            "type": "low"
+          },
+          {
+            "time": "13:39",
+            "height": 0.55,
+            "type": "high"
+          },
+          {
+            "time": "21:04",
+            "height": -0.518,
+            "type": "low"
+          }
+        ],
+        "2026-10-13": [
+          {
+            "time": "03:34",
+            "height": 0.005,
+            "type": "high"
+          },
+          {
+            "time": "07:08",
+            "height": -0.102,
+            "type": "low"
+          },
+          {
+            "time": "14:02",
+            "height": 0.607,
+            "type": "high"
+          },
+          {
+            "time": "21:55",
+            "height": -0.539,
+            "type": "low"
+          }
+        ],
+        "2026-10-14": [
+          {
+            "time": "04:54",
+            "height": -0.083,
+            "type": "high"
+          },
+          {
+            "time": "06:48",
+            "height": -0.098,
+            "type": "low"
+          },
+          {
+            "time": "14:27",
+            "height": 0.632,
+            "type": "high"
+          },
+          {
+            "time": "22:50",
+            "height": -0.531,
+            "type": "low"
+          }
+        ],
+        "2026-10-15": [
+          {
+            "time": "14:57",
+            "height": 0.626,
+            "type": "high"
+          },
+          {
+            "time": "23:54",
+            "height": -0.507,
+            "type": "low"
+          }
+        ],
+        "2026-10-16": [
+          {
+            "time": "15:32",
+            "height": 0.595,
+            "type": "high"
+          }
+        ],
+        "2026-10-17": [
+          {
+            "time": "01:12",
+            "height": -0.485,
+            "type": "low"
+          },
+          {
+            "time": "16:16",
+            "height": 0.549,
+            "type": "high"
+          }
+        ],
+        "2026-10-18": [
+          {
+            "time": "02:36",
+            "height": -0.48,
+            "type": "low"
+          },
+          {
+            "time": "17:11",
+            "height": 0.495,
+            "type": "high"
+          }
+        ],
+        "2026-10-19": [
+          {
+            "time": "03:40",
+            "height": -0.486,
+            "type": "low"
+          },
+          {
+            "time": "18:28",
+            "height": 0.444,
+            "type": "high"
+          }
+        ],
+        "2026-10-20": [
+          {
+            "time": "04:20",
+            "height": -0.485,
+            "type": "low"
+          },
+          {
+            "time": "19:58",
+            "height": 0.404,
+            "type": "high"
+          }
+        ],
+        "2026-10-21": [
+          {
+            "time": "04:48",
+            "height": -0.467,
+            "type": "low"
+          }
+        ]
+      }
+    },
+    {
+      "name": "遠石仔排",
+      "lat": 21.548028,
+      "lon": 114.863361,
+      "tides": {
+        "2026-10-07": [
+          {
+            "time": "22:43",
+            "height": 0.507,
+            "type": "high"
+          }
+        ],
+        "2026-10-08": [
+          {
+            "time": "06:14",
+            "height": -0.445,
+            "type": "low"
+          },
+          {
+            "time": "12:40",
+            "height": 0.091,
+            "type": "high"
+          },
+          {
+            "time": "17:18",
+            "height": -0.127,
+            "type": "low"
+          },
+          {
+            "time": "23:43",
+            "height": 0.425,
+            "type": "high"
+          }
+        ],
+        "2026-10-09": [
+          {
+            "time": "06:34",
+            "height": -0.35,
+            "type": "low"
+          },
+          {
+            "time": "12:45",
+            "height": 0.197,
+            "type": "high"
+          },
+          {
+            "time": "18:25",
+            "height": -0.237,
+            "type": "low"
+          }
+        ],
+        "2026-10-10": [
+          {
+            "time": "00:39",
+            "height": 0.319,
+            "type": "high"
+          },
+          {
+            "time": "06:49",
+            "height": -0.254,
+            "type": "low"
+          },
+          {
+            "time": "12:58",
+            "height": 0.314,
+            "type": "high"
+          },
+          {
+            "time": "19:23",
+            "height": -0.34,
+            "type": "low"
+          }
+        ],
+        "2026-10-11": [
+          {
+            "time": "01:36",
+            "height": 0.201,
+            "type": "high"
+          },
+          {
+            "time": "06:59",
+            "height": -0.17,
+            "type": "low"
+          },
+          {
+            "time": "13:15",
+            "height": 0.424,
+            "type": "high"
+          },
+          {
+            "time": "20:17",
+            "height": -0.423,
+            "type": "low"
+          }
+        ],
+        "2026-10-12": [
+          {
+            "time": "02:35",
+            "height": 0.085,
+            "type": "high"
+          },
+          {
+            "time": "07:01",
+            "height": -0.11,
+            "type": "low"
+          },
+          {
+            "time": "13:36",
+            "height": 0.512,
+            "type": "high"
+          },
+          {
+            "time": "21:09",
+            "height": -0.479,
+            "type": "low"
+          }
+        ],
+        "2026-10-13": [
+          {
+            "time": "03:42",
+            "height": -0.018,
+            "type": "high"
+          },
+          {
+            "time": "06:51",
+            "height": -0.082,
+            "type": "low"
+          },
+          {
+            "time": "13:58",
+            "height": 0.572,
+            "type": "high"
+          },
+          {
+            "time": "22:02",
+            "height": -0.505,
+            "type": "low"
+          }
+        ],
+        "2026-10-14": [
+          {
+            "time": "14:24",
+            "height": 0.599,
+            "type": "high"
+          },
+          {
+            "time": "22:58",
+            "height": -0.504,
+            "type": "low"
+          }
+        ],
+        "2026-10-15": [
+          {
+            "time": "14:54",
+            "height": 0.597,
+            "type": "high"
+          }
+        ],
+        "2026-10-16": [
+          {
+            "time": "00:04",
+            "height": -0.488,
+            "type": "low"
+          },
+          {
+            "time": "15:31",
+            "height": 0.572,
+            "type": "high"
+          }
+        ],
+        "2026-10-17": [
+          {
+            "time": "01:21",
+            "height": -0.472,
+            "type": "low"
+          },
+          {
+            "time": "16:14",
+            "height": 0.531,
+            "type": "high"
+          }
+        ],
+        "2026-10-18": [
+          {
+            "time": "02:43",
+            "height": -0.469,
+            "type": "low"
+          },
+          {
+            "time": "17:09",
+            "height": 0.482,
+            "type": "high"
+          }
+        ],
+        "2026-10-19": [
+          {
+            "time": "03:43",
+            "height": -0.471,
+            "type": "low"
+          },
+          {
+            "time": "18:21",
+            "height": 0.434,
+            "type": "high"
+          }
+        ],
+        "2026-10-20": [
+          {
+            "time": "04:22",
+            "height": -0.466,
+            "type": "low"
+          },
+          {
+            "time": "19:48",
+            "height": 0.393,
+            "type": "high"
+          }
+        ],
+        "2026-10-21": [
+          {
+            "time": "04:50",
+            "height": -0.444,
             "type": "low"
           }
         ]
